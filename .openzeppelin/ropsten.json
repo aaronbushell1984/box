@@ -1,0 +1,28 @@
+{
+  "manifestVersion": "3.1",
+  "impls": {
+    "a65cdfa308566facef6065beb9e631bc7782c0699e2093fd7f5bc24c50583bce": {
+      "address": "0x2D1d357086Ae044fC28D705404dE9fffb64edc34",
+      "txHash": "0x4b0f9536cd81d7a478d9b87449a257666ccc98256997df7c9637ce0d51f24d14",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Box",
+            "label": "value",
+            "type": "t_uint256",
+            "src": "Box.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    }
+  },
+  "admin": {
+    "address": "0x0e9f33f80Cee186227b547f3eEBD7B5d34B6C838",
+    "txHash": "0xe6656f2d81688be2c7ddd6f7901a2c17fdc00668bfd1916a47ae986984da8fd4"
+  }
+}
